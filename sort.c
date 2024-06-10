@@ -4,5 +4,6 @@ void main(){
 
     printf("Enter the length of an array :");
     scanf("%d", &n);
+    printf("Learning git");
     
 }
